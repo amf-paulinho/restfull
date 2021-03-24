@@ -1,0 +1,19 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "Simnples bookstore using restfull",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "body-parsec": "*",
+    "express": "*",
+    "mongoose": "*"
+  },
+  "author": "Paulo AMF",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
